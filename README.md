@@ -88,7 +88,8 @@ soup — use structured short paragraphs where appropriate.
 
 ## Sample Output
 
-![Status Report Output](status-report-output.png)
+![Status Report Output 1](status-report-output-1.png)
+![Status Report Output 2](status-report-output-2.png)
 
 ---
 
